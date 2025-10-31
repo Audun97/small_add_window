@@ -1,0 +1,12 @@
+{
+  "name": "Small Add Window",
+  "package": "small_add_window",
+  "ankiweb_id": "",
+  "author": "Audun Lund Johansen",
+  "version": "1.0.0",
+  "homepage": "",
+  "conflicts": [],
+  "min_point_version": 0,
+  "max_point_version": 0,
+  "targets": ["desktop"]
+}
